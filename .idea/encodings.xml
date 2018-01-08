@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/tellyouwhat/murpnewsservice/Academy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/tellyouwhat/murpnewsservice/ArrayOfAcademy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/tellyouwhat/murpnewsservice/MURPNewsServiceSoap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/tellyouwhat/murpnewsservice/Murpcustomi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/tellyouwhat/murpnewsservice/RI.java" charset="GBK" />
+  </component>
+</project>
